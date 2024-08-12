@@ -1,0 +1,7 @@
+
+pandas==1.5.3
+glob==3.4
+shutil==3.4
+sqlalchemy==3.7
+sqlalchemy_utils==0.38
+watchdog==3.0.0
